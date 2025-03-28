@@ -15,7 +15,7 @@
 <!-- esto es un comentario-->
 
     <form action="Iniciar Sesion.php" method="POST">
-        <h1 class="text text-center">INICIAR SESION</h1>
+        <h1 class="text text-center">INICIAR SESION jmrs</h1>
         <hr>
         <i class="fa-solid fa-user"></i>
         <label>Usuario</label>
