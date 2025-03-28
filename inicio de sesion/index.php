@@ -12,6 +12,7 @@
 </head>
 
 <body>
+<!-- esto es un comentario-->
 
     <form action="Iniciar Sesion.php" method="POST">
         <h1 class="text text-center">INICIAR SESION</h1>
